@@ -2,7 +2,7 @@ Package: protVis
 Type: Package
 Title: Visualize similarities and differences different protein sequences
 Version: 0.1.0
-Author: Khaled Elemam
+Author:  person("Khaled", "elemam", email = "khaled.elemam@mail.utoronto.ca", role = c("aut", "cre"))
 Maintainer: Khaled Elemam <khaled.elemam@mail.utoronto.ca>
 Description: The package takes in FASTA files of protein sequences, compares them then outputs a viusal plot.
 License: MIT + file LICENSE
